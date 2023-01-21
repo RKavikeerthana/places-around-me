@@ -191,29 +191,24 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
+![output 6](https://user-images.githubusercontent.com/118596964/213861033-a23aeec8-6f6e-479f-8c51-3f355f7d0bc8.png)
 
 
-![Output](./screenshots/output 1.png)
+![output 1](https://user-images.githubusercontent.com/118596964/213861002-e6d08507-fe4c-4c45-855c-975f36bee352.png)
+
+![output 2](https://user-images.githubusercontent.com/118596964/213861011-007babf1-f3c1-461b-a372-3e290bbf20e6.png)
+
+![output 3](https://user-images.githubusercontent.com/118596964/213861013-28a70664-b7c2-484f-8560-ac590fb39f0b.png)
+![output 4](https://user-images.githubusercontent.com/118596964/213861017-24f733bc-60e2-465a-bd07-e29f436b0cb4.png)
+![output 5](https://user-images.githubusercontent.com/118596964/213861020-b8ec21ee-fded-4082-ae20-39ff3b62144e.png)
 
 
-![Output](./screenshots/output 2.png)
 
 
-![Output](./screenshots/output 3.png)
-
-
-![Output](./screenshots/output 4.png)
-
-
-![Output](./screenshots/output 5.png)
-
-
-![Output](./screenshots/output 6.png)
 
 ## HTML Validator:
 
-
-![HTML Validator](./screenshots/valid.png)
+![valid](https://user-images.githubusercontent.com/118596964/213861042-20580ad0-9414-4f21-ae53-ee04679c2de1.png)
 
 
 ## Result:
